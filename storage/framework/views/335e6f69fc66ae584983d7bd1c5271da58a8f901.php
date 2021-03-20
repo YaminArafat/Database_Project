@@ -1,0 +1,1 @@
+hello world<?php /**PATH D:\Soft\CSE 3110\project\myproject\resources\views/next.blade.php ENDPATH**/ ?>
